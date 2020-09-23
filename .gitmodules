@@ -1,0 +1,15 @@
+[submodule "confounds"]
+	path = confounds
+	url = ./confounds
+	branch = master
+	datalad-id = c7bf1036-fdc5-11ea-89c3-10e7c62a3442
+[submodule "mriqc"]
+	path = mriqc
+	url = ./mriqc
+	branch = master
+	datalad-id = c609003a-fdc5-11ea-89c3-10e7c62a3442
+[submodule "raw"]
+	path = raw
+	url = ./raw
+	branch = master
+	datalad-id = b2a0530e-fdc5-11ea-89c3-10e7c62a3442
